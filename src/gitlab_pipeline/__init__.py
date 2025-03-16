@@ -1,0 +1,1 @@
+"""GitLab Pipeline Lock Manager package.""" 
